@@ -3,7 +3,7 @@ import { BrowserRouter as Router, Route, Switch } from 'react-router-dom';
 import { LOGOUT } from './utils/constant';
 
 import setAuthToken from './utils/setAuthToken';
-
+// i have added some changes
 // Redux
 import { Provider } from 'react-redux';
 import store from './store';
