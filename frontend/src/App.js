@@ -5,6 +5,7 @@ import { LOGOUT } from './utils/constant';
 import setAuthToken from './utils/setAuthToken';
 // i have added some changes
 // Redux
+//i have changed one.
 import { Provider } from 'react-redux';
 import store from './store';
 import { loadUser } from './actinos/auth';
